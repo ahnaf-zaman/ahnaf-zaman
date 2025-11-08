@@ -1,13 +1,14 @@
 ```json
 {
-	"Name":"ahnaf",
+    "Name":"Ahnaf Zaman",
     
-	"Website":"ultraspatial.github.io",
-	"E-Mail": "study.bayleaf@gmail.com",
+    "E-Mail": "ahnafzaman2006@gmail.com",
 
-	"Bio": "✱ He/Him - 2006 - Dhaka ✱ Aspiring Engineer, Amateur Programmer ✱",
-	"Interests": ["Web Design", "Computational Science", "Mathematics"],
-	"Skills": ["HTML + CSS", "Python"],
-	"Learning": ["JavaScript", "Lua", "Machine Learning", "MATLAB"]
+	"ID": ["He/Him", "Dhaka, BD"],
+    "Bio": "✱ Aspiring Engineer, Hobbyist Programmer, Open Source Advocate ✱",
+    
+	"Interests": ["Hardware Engineering", "Robotics", "Creative Coding"],
+    "Skills": ["HTML + CSS", "Python"],
+    "Learning": ["Arduino", "Robotics", "Front-End"]
 }
 ```
